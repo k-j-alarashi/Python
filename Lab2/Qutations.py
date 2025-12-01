@@ -12,7 +12,7 @@ phone = "77777777"
 
 print(f'''
 name : {name}
-      address : {address}
+address : {address}
 phone : {phone}
 ''')
 
