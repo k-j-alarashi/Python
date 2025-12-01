@@ -1,0 +1,10 @@
+id = int(input('Enter Your ID : '))
+name = input("Enter Your Name : ")
+age = int(input("Enter Your Age : "))
+major = input("Enter Your Major : ")
+
+print('===================')
+# print("id : ",id,"\nName : ",name,"\nAge : ",age,"\nMajor : ",major)
+# print("id : {} \nName : {} \nAge : {} \nMajor : {}".format(id,name,age,major))
+# print(f"id : {id} \nName : {name} \nAge : {age} \nMajor : {major}")
+print('===================')
