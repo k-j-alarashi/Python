@@ -15,7 +15,7 @@ file.close()
 # print(file.readline())
 # file.close()
 
-# دالة read() تقرأ كل محتوى الملف وترجعه على شكل list
+# دالة readlines() تقرأ كل محتوى الملف وترجعه على شكل list
 # file = open("names.txt" , "r")
 # print(file.readlines())
 # file.close()
