@@ -1,0 +1,11 @@
+# اذا كان mode = "a" ، يتم حفظ الاسم دون حذف الاسماء السابقة  (a-->append)
+file = open("names.txt" , "a")
+name = input("Enter Your Name : ")
+file.write(name+"\n")
+file.close()
+
+# اذا كان mode = "w" ، عند ادخال اسم جديد يحذف السابق ويطبع الجديد فقط  (w-->write)
+# file = open("names.txt" , "w")
+# name = input("Enter Your Name : ")
+# file.write(name+"\n")
+# file.close()
